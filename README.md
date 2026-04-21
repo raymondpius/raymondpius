@@ -23,13 +23,6 @@ Consumer mobile postpaid retention and growth intelligence — 75M+ customers
 
 ## 📦 What I Build Here
 
-### [🤖 PM Agent](https://github.com/raymondpius/pm-agent)
-AI tool that generates user stories, acceptance criteria, definition of done, and success metrics — built with React and the Anthropic Claude API.
-
-**[→ Live Demo](https://raymondpius.github.io/pm-agent)**
-
----
-
 ### [🤖 AI PM Copilot](https://github.com/raymondpius/ai-pm-copilot)
 AI-powered tool that generates full PRDs, user personas, metrics frameworks, experiment plans, and product insights from a single feature idea — built with HTML, CSS, and Vanilla JavaScript.
 
@@ -70,8 +63,6 @@ AI-powered exploratory data analysis dashboard for product decisions — single-
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raymond--pius-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raymond-pius)
-&nbsp;
-[![PM Agent](https://img.shields.io/badge/PM%20Agent-Live%20Demo-FFB300?style=for-the-badge)](https://raymondpius.github.io/pm-agent)
 &nbsp;
 [![EDA Agent](https://img.shields.io/badge/EDA%20Agent-Live%20Demo-2E7D32?style=for-the-badge)](https://raymondpius.github.io/product-intelligence-agent/)
 &nbsp;
