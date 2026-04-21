@@ -1,10 +1,10 @@
 # Hi, I'm Raymond Pius 👋
 
-### Senior Product Manager · AI Platforms · GenAI Products · Lifecycle Intelligence
+### Senior Product Manager · AI Platforms & Data Products · GenAI Products · Lifecycle Intelligence
 
 > Most PMs talk about AI. I build with it.
 
-I'm a Senior PM with 9+ years building AI-powered platforms at **Verizon** and **Amazon** — and I build side projects to stay close to the technology I ship at work.
+I'm a Senior PM with 9+ years building AI-powered platforms at **Verizon** and **Amazon** — and I build and test side projects to stay close to the technology I ship at work.
 
 ---
 
@@ -12,7 +12,7 @@ I'm a Senior PM with 9+ years building AI-powered platforms at **Verizon** and *
 
 Consumer mobile postpaid retention and growth intelligence — 75M+ customers
 
-- 🔴 **Churn Prediction Platform** — MMOE Transformer architecture across IVR, CJA, AEP and real-time call signals predicting Mobile, Port, FWA 4G and 5G churn simultaneously
+- 🔴 **Churn Prediction Platform** — MMOE Transformer architecture across Digital and Assisted Channels and real-time call signals predicting Mobile Churn, Port Outs, FWA and FIOS churn simultaneously
 - 🟡 **PZAI Gridwall Personalisation** — E2E algorithmic personalisation using DistilBERT, BERT, and Context MLP; A/B validated +9.9% NSE Order CVR at 99% confidence
 - 🟢 **Digital Concierge** — GenAI platform driving 500K chat opens per month with +26% engagement uplift via Direct-to-Customer messaging and Lean-In in-session scoring
 - 🔵 **Montana** — LLM-powered competitor bill extraction and AI-optimised plan match for switcher acquisition
@@ -30,7 +30,7 @@ AI tool that generates user stories, acceptance criteria, definition of done, an
 
 ---
 
-### [📊 Product Intelligence Agent]([https://github.com/raymondpius/eda-agent-framework](https://raymondpius.github.io/product-intelligence-agent/)
+### [📊 Product Intelligence Agent](https://github.com/raymondpius/product-intelligence-agent)
 AI-powered exploratory data analysis dashboard for product decisions — single-page app, no backend.
 
 **[→ Live Demo](https://raymondpius.github.io/product-intelligence-agent/)**
@@ -49,8 +49,8 @@ AI-powered exploratory data analysis dashboard for product decisions — single-
 ## 🛠 Tech I Work With
 
 `Large Language Models` `Agentic AI` `MMOE Architecture` `Transformer Models` `SHAP Explainability`
-`DistilBERT` `MiniLM` `Prompt Engineering` `Claude API` `A/B Experimentation`
-`GenAI Personalisation` `Real-time Scoring` `React` `HTML/CSS/JS` `GitHub Pages`
+`DistilBERT` `Prompt Engineering` `Claude API` `Claude Cowork` `A/B Experimentation`
+`GenAI Personalisation` `Real-time Scoring` `Gemini Flash 2.0`
 
 ---
 
@@ -66,7 +66,7 @@ AI-powered exploratory data analysis dashboard for product decisions — single-
 &nbsp;
 [![PM Agent](https://img.shields.io/badge/PM%20Agent-Live%20Demo-FFB300?style=for-the-badge)](https://raymondpius.github.io/pm-agent)
 &nbsp;
-[![Product Intelligence Agent](https://img.shields.io/badge/EDA%20Agent-Live%20Demo-2E7D32?style=for-the-badge)]([https://raymondpius.github.io/eda-agent-framework](https://raymondpius.github.io/product-intelligence-agent/)
+[![EDA Agent](https://img.shields.io/badge/EDA%20Agent-Live%20Demo-2E7D32?style=for-the-badge)](https://raymondpius.github.io/product-intelligence-agent/)
 
 ---
 
