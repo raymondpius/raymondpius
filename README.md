@@ -30,10 +30,10 @@ AI tool that generates user stories, acceptance criteria, definition of done, an
 
 ---
 
-### [📊 Product Intelligence Agent](https://github.com/raymondpius/eda-agent-framework)
+### [📊 Product Intelligence Agent]([https://github.com/raymondpius/eda-agent-framework](https://raymondpius.github.io/product-intelligence-agent/)
 AI-powered exploratory data analysis dashboard for product decisions — single-page app, no backend.
 
-**[→ Live Demo](https://raymondpius.github.io/eda-agent-framework)**
+**[→ Live Demo](https://raymondpius.github.io/product-intelligence-agent/)**
 
 ---
 
@@ -66,7 +66,7 @@ AI-powered exploratory data analysis dashboard for product decisions — single-
 &nbsp;
 [![PM Agent](https://img.shields.io/badge/PM%20Agent-Live%20Demo-FFB300?style=for-the-badge)](https://raymondpius.github.io/pm-agent)
 &nbsp;
-[![EDA Agent](https://img.shields.io/badge/EDA%20Agent-Live%20Demo-2E7D32?style=for-the-badge)](https://raymondpius.github.io/eda-agent-framework)
+[![Product Intelligence Agent](https://img.shields.io/badge/EDA%20Agent-Live%20Demo-2E7D32?style=for-the-badge)]([https://raymondpius.github.io/eda-agent-framework](https://raymondpius.github.io/product-intelligence-agent/)
 
 ---
 
