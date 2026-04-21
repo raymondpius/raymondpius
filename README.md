@@ -15,7 +15,7 @@ Consumer mobile postpaid retention and growth intelligence — 75M+ customers
 - 🔴 **Churn Prediction Platform** — MMOE Transformer architecture across Digital and Assisted Channels and real-time call signals predicting Mobile Churn, Port Outs, FWA and FIOS churn simultaneously
 - 🟡 **PZAI Gridwall Personalisation** — E2E algorithmic personalisation using DistilBERT, BERT, and Context MLP; A/B validated +9.9% NSE Order CVR at 99% confidence
 - 🟢 **Digital Concierge** — GenAI platform driving 500K chat opens per month with +26% engagement uplift via Direct-to-Customer messaging and Lean-In in-session scoring
-- 🔵 **Montana** — LLM-powered competitor bill extraction and AI-optimised plan match for switcher acquisition
+- 🔵 **Bill Compare** — LLM-powered competitor bill extraction and AI-optimised plan match for switcher acquisition
 - 🟣 **ConvoIQ** — Conversation intelligence processing 27M+ calls monthly; sentiment-to-churn correlation models
 - ⚡ **Agentic AI Roadmap** — Lookback Agent, Diagnostic Agent (SHAP/Attention), Autonomous Insight Generation
 
