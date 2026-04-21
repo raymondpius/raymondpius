@@ -30,6 +30,13 @@ AI tool that generates user stories, acceptance criteria, definition of done, an
 
 ---
 
+### [🤖 AI PM Copilot](https://github.com/raymondpius/ai-pm-copilot)
+AI-powered tool that generates full PRDs, user personas, metrics frameworks, experiment plans, and product insights from a single feature idea — built with HTML, CSS, and Vanilla JavaScript.
+
+**[→ Live Demo](https://raymondpius.github.io/ai-pm-copilot)**
+
+---
+
 ### [📊 Product Intelligence Agent](https://github.com/raymondpius/product-intelligence-agent)
 AI-powered exploratory data analysis dashboard for product decisions — single-page app, no backend.
 
@@ -67,6 +74,8 @@ AI-powered exploratory data analysis dashboard for product decisions — single-
 [![PM Agent](https://img.shields.io/badge/PM%20Agent-Live%20Demo-FFB300?style=for-the-badge)](https://raymondpius.github.io/pm-agent)
 &nbsp;
 [![EDA Agent](https://img.shields.io/badge/EDA%20Agent-Live%20Demo-2E7D32?style=for-the-badge)](https://raymondpius.github.io/product-intelligence-agent/)
+&nbsp;
+[![AI PM Copilot](https://img.shields.io/badge/AI%20PM%20COPILOT-Live%20Demo-6A0DAD?style=for-the-badge)](https://raymondpius.github.io/ai-pm-copilot)
 
 ---
 
