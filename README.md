@@ -35,6 +35,11 @@ AI-powered exploratory data analysis dashboard for product decisions — single-
 
 **[→ Live Demo](https://raymondpius.github.io/product-intelligence-agent/)**
 
+### [🤖 ML Pipeline Governance Agent](https://github.com/raymondpius/ml-governance-agent)
+Real-time ML pipeline observability dashboard with automated drift detection, observability gates at every stage, and live alert console — protects business consumption from model failures and data drift.
+
+**[→ Live Demo](https://raymondpius.github.io/ml-governance-agent)**
+
 ---
 
 ## 🧪 Amazon — Alexa AI and AWS SageMaker
@@ -67,6 +72,8 @@ AI-powered exploratory data analysis dashboard for product decisions — single-
 [![EDA Agent](https://img.shields.io/badge/EDA%20Agent-Live%20Demo-2E7D32?style=for-the-badge)](https://raymondpius.github.io/product-intelligence-agent/)
 &nbsp;
 [![AI PM Copilot](https://img.shields.io/badge/AI%20PM%20COPILOT-Live%20Demo-6A0DAD?style=for-the-badge)](https://raymondpius.github.io/ai-pm-copilot)
+&nbsp;
+[![ML Governance](https://img.shields.io/badge/ML%20GOVERNANCE-Live%20Demo-red?style=for-the-badge)](https://raymondpius.github.io/ml-governance-agent)
 
 ---
 
