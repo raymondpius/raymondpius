@@ -40,6 +40,11 @@ Real-time ML pipeline observability dashboard with automated drift detection, ob
 
 **[→ Live Demo](https://raymondpius.github.io/ml-governance-agent)**
 
+### [🎯 PM Interview Coach](https://github.com/raymondpius/pm-interview-coach)
+Real AI-powered interview coaching agent built on Claude API. Evaluates answers across clarity, impact and specificity. Features mock interview mode, answer rewriter, gap analysis, before and after comparison, common mistake detection, and company style modes for Google, Amazon and Meta.
+
+**[→ Live Demo](https://raymondpius.github.io/pm-interview-coach)**
+
 ---
 
 ## 🧪 Amazon — Alexa AI and AWS SageMaker
@@ -74,6 +79,8 @@ Real-time ML pipeline observability dashboard with automated drift detection, ob
 [![AI PM Copilot](https://img.shields.io/badge/AI%20PM%20COPILOT-Live%20Demo-6A0DAD?style=for-the-badge)](https://raymondpius.github.io/ai-pm-copilot)
 &nbsp;
 [![ML Governance](https://img.shields.io/badge/ML%20GOVERNANCE-Live%20Demo-red?style=for-the-badge)](https://raymondpius.github.io/ml-governance-agent)
+&nbsp;
+[![PM Interview Coach](https://img.shields.io/badge/PM%20INTERVIEW%20COACH-Live%20Demo-green?style=for-the-badge)](https://raymondpius.github.io/pm-interview-coach)
 
 ---
 
