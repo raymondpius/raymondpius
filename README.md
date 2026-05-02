@@ -1,3 +1,8 @@
+## 🚀 Currently Building
+AI-powered PM tools using Claude API — live portfolio at raymondpius.github.io
+
+---
+
 # Hi, I'm Raymond Pius 👋
 
 ### Senior Product Manager · AI Platforms & Data Products · GenAI Products · Lifecycle Intelligence
@@ -12,11 +17,11 @@ I'm a Senior PM with 9+ years building AI-powered platforms at **Verizon** and *
 
 Consumer mobile postpaid retention and growth intelligence — 75M+ customers
 
-- 🔴 **Churn Prediction Platform** — MMOE Transformer architecture across Digital and Assisted Channels and real-time call signals predicting Mobile Churn, Port Outs, FWA and FIOS churn simultaneously
-- 🟡 **PZAI Gridwall Personalisation** — E2E algorithmic personalisation using DistilBERT, BERT, and Context MLP; A/B validated +9.9% NSE Order CVR at 99% confidence
-- 🟢 **Digital Concierge** — GenAI platform driving 500K chat opens per month with +26% engagement uplift via Direct-to-Customer messaging and Lean-In in-session scoring
+- 🔴 **Churn Prediction Platform** — MMOE Transformer across Digital and Assisted Channels, predicting Mobile Churn, Port-Outs, FWA and FIOS simultaneously
+- 🟡 **PZAI Gridwall Personalisation** — E2E algorithmic personalisation; A/B validated +9.9% NSE Order CVR at 99% confidence
+- 🟢 **Digital Concierge** — GenAI platform driving 500K chat opens/month with +26% engagement uplift
 - 🔵 **Bill Compare** — LLM-powered competitor bill extraction and AI-optimised plan match for switcher acquisition
-- 🟣 **ConvoIQ** — Conversation intelligence processing 27M+ calls monthly; sentiment-to-churn correlation models
+- 🟣 **ConvoIQ** — Conversation intelligence processing 27M+ calls monthly with sentiment-to-churn correlation
 - ⚡ **Agentic AI Roadmap** — Lookback Agent, Diagnostic Agent (SHAP/Attention), Autonomous Insight Generation
 
 ---
@@ -45,6 +50,11 @@ Real AI-powered interview coaching agent built on Claude API. Evaluates answers 
 
 **[→ Live Demo](https://raymondpius.github.io/pm-interview-coach)**
 
+### [📱 AI Retention Copilot](https://github.com/raymondpius/ai-retention-copilot)
+Enterprise-grade AI retention decision support tool for telecom agents. Features real-time churn scoring, escalation detection, live call simulation, and AI-powered retention strategies across three customer profiles.
+
+**[→ Live Demo](https://raymondpius.github.io/ai-retention-copilot)**
+
 ---
 
 ## 🧪 Amazon — Alexa AI and AWS SageMaker
@@ -72,15 +82,17 @@ Real AI-powered interview coaching agent built on Claude API. Evaluates answers 
 
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raymond--pius-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raymond-pius)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raymond--pius-333333?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raymond-pius)
 &nbsp;
-[![EDA Agent](https://img.shields.io/badge/EDA%20Agent-Live%20Demo-2E7D32?style=for-the-badge)](https://raymondpius.github.io/product-intelligence-agent/)
+[![EDA Agent](https://img.shields.io/badge/EDA%20AGENT-Demo-2E7D32?style=for-the-badge)](https://raymondpius.github.io/product-intelligence-agent/)
 &nbsp;
-[![AI PM Copilot](https://img.shields.io/badge/AI%20PM%20COPILOT-Live%20Demo-6A0DAD?style=for-the-badge)](https://raymondpius.github.io/ai-pm-copilot)
+[![AI PM Copilot](https://img.shields.io/badge/AI%20PM%20COPILOT-Demo-2E7D32?style=for-the-badge)](https://raymondpius.github.io/ai-pm-copilot)
 &nbsp;
-[![ML Governance](https://img.shields.io/badge/ML%20GOVERNANCE-Live%20Demo-red?style=for-the-badge)](https://raymondpius.github.io/ml-governance-agent)
+[![ML Governance](https://img.shields.io/badge/ML%20GOVERNANCE-Demo-2E7D32?style=for-the-badge)](https://raymondpius.github.io/ml-governance-agent)
 &nbsp;
-[![PM Interview Coach](https://img.shields.io/badge/PM%20INTERVIEW%20COACH-Live%20Demo-green?style=for-the-badge)](https://raymondpius.github.io/pm-interview-coach)
+[![PM Interview Coach](https://img.shields.io/badge/PM%20INTERVIEW%20COACH-Demo-2E7D32?style=for-the-badge)](https://raymondpius.github.io/pm-interview-coach)
+&nbsp;
+[![Retention Copilot](https://img.shields.io/badge/RETENTION%20COPILOT-Demo-2E7D32?style=for-the-badge)](https://raymondpius.github.io/ai-retention-copilot)
 
 ---
 
