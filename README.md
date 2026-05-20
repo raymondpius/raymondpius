@@ -55,6 +55,11 @@ Enterprise-grade AI retention decision support tool for telecom agents. Features
 
 **[→ Live Demo](https://raymondpius.github.io/ai-retention-copilot)**
 
+### [📊 Omnichannel Executive Scorecard](https://github.com/raymondpius/omnichannel-scorecard)
+Enterprise-grade omnichannel performance intelligence dashboard replicating real executive scorecard format. Tracks Sales, Upgrades, Self Service, Adoption, Resolution, and Cross-Channel Revenue across Digital, Stores, Agent, IVR, and Care channels with daily, WTD, and MTD views, sparkline trends, and collapsible metric sections.
+
+**[→ Live Demo](https://raymondpius.github.io/omnichannel-scorecard)**
+
 ---
 
 ## 🧪 Amazon — Alexa AI and AWS SageMaker
@@ -93,6 +98,8 @@ Enterprise-grade AI retention decision support tool for telecom agents. Features
 [![PM Interview Coach](https://img.shields.io/badge/PM%20INTERVIEW%20COACH-Demo-2E7D32?style=for-the-badge)](https://raymondpius.github.io/pm-interview-coach)
 &nbsp;
 [![Retention Copilot](https://img.shields.io/badge/RETENTION%20COPILOT-Demo-2E7D32?style=for-the-badge)](https://raymondpius.github.io/ai-retention-copilot)
+&nbsp;
+[![Omnichannel Scorecard](https://img.shields.io/badge/OMNICHANNEL%20SCORECARD-Demo-8B0000?style=for-the-badge)](https://raymondpius.github.io/omnichannel-scorecard)
 
 ---
 
