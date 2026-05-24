@@ -60,6 +60,11 @@ Enterprise-grade omnichannel performance intelligence dashboard replicating real
 
 **[→ Live Demo](https://raymondpius.github.io/omnichannel-scorecard)**
 
+### [🎯 AI Hiring and Training Intelligence Agent](https://github.com/raymondpius/ai-hiring-training-agent)
+Enterprise contact centre hiring and training performance intelligence platform. Features live assessment simulator with AI scoring, training funnel comparison, dynamic scenario-based training modules, real-time agent assist preview, closed performance feedback loop, and full cohort tracking from hire score through to production performance and churn correlation.
+
+**[→ Live Demo](https://raymondpius.github.io/ai-hiring-training-agent)**
+
 ---
 
 ## 🧪 Amazon — Alexa AI and AWS SageMaker
@@ -100,6 +105,8 @@ Enterprise-grade omnichannel performance intelligence dashboard replicating real
 [![Retention Copilot](https://img.shields.io/badge/RETENTION%20COPILOT-Demo-2E7D32?style=for-the-badge)](https://raymondpius.github.io/ai-retention-copilot)
 &nbsp;
 [![Omnichannel Scorecard](https://img.shields.io/badge/OMNICHANNEL%20SCORECARD-Demo-8B0000?style=for-the-badge)](https://raymondpius.github.io/omnichannel-scorecard)
+&nbsp;
+[![Hiring Training Agent](https://img.shields.io/badge/HIRING%20TRAINING%20AGENT-Demo-4B0082?style=for-the-badge)](https://raymondpius.github.io/ai-hiring-training-agent)
 
 ---
 
