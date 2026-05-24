@@ -18,6 +18,7 @@ I'm a Senior PM with 9+ years building AI-powered products at Verizon and Amazon
 - 🔴 **Churn Prediction Platform** — MMOE Transformer predicting Mobile Churn, Port-Outs, FWA and FIOS simultaneously across 75M+ customers
 - 🟡 **PZAI Gridwall Personalisation** — E2E algorithmic personalisation; A/B validated +9.9% NSE Order CVR at 99% confidence
 - 🟢 **Digital Concierge and ConvoIQ** — GenAI platform driving 500K chat opens/month and conversation intelligence processing 27M+ calls monthly
+- 🎯 **AI Hiring and Training Transformation** — LLM-powered assessment and training system built on real call transcripts; reduced bottom-quartile agent ratio by 50%, improved training graduation rates by 63%, and cut hire-to-production ramp from 16 weeks to under 8 weeks
 
 ---
 
