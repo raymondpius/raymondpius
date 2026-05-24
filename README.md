@@ -9,24 +9,21 @@ AI-powered PM tools using Claude API — live portfolio at raymondpius.github.io
 
 > Most PMs talk about AI. I build with it.
 
-I'm a Senior PM with 9+ years building AI-powered platforms at **Verizon** and **Amazon** — and I build and test side projects to stay close to the technology I ship at work.
+I'm a Senior PM with 9+ years building AI-powered products at Verizon and Amazon. I've shipped ML models serving 75M+ customers, conversation intelligence processing 27M calls monthly, and GenAI platforms driving measurable business outcomes. I also build and ship AI tools independently — 8 live products on GitHub Pages — to stay at the frontier of what's possible.
 
 ---
 
 ## 🏢 What I Own at Verizon
 
-Consumer mobile postpaid retention and growth intelligence — 75M+ customers
-
-- 🔴 **Churn Prediction Platform** — MMOE Transformer across Digital and Assisted Channels, predicting Mobile Churn, Port-Outs, FWA and FIOS simultaneously
+- 🔴 **Churn Prediction Platform** — MMOE Transformer predicting Mobile Churn, Port-Outs, FWA and FIOS simultaneously across 75M+ customers
 - 🟡 **PZAI Gridwall Personalisation** — E2E algorithmic personalisation; A/B validated +9.9% NSE Order CVR at 99% confidence
-- 🟢 **Digital Concierge** — GenAI platform driving 500K chat opens/month with +26% engagement uplift
-- 🔵 **Bill Compare** — LLM-powered competitor bill extraction and AI-optimised plan match for switcher acquisition
-- 🟣 **ConvoIQ** — Conversation intelligence processing 27M+ calls monthly with sentiment-to-churn correlation
-- ⚡ **Agentic AI Roadmap** — Lookback Agent, Diagnostic Agent (SHAP/Attention), Autonomous Insight Generation
+- 🟢 **Digital Concierge and ConvoIQ** — GenAI platform driving 500K chat opens/month and conversation intelligence processing 27M+ calls monthly
 
 ---
 
 ## 📦 What I Build Here
+
+All tools are live, free to use, and built without a backend — HTML, CSS, Vanilla JavaScript, and Claude API.
 
 ### [🤖 AI PM Copilot](https://github.com/raymondpius/ai-pm-copilot)
 AI-powered tool that generates full PRDs, user personas, metrics frameworks, experiment plans, and product insights from a single feature idea — built with HTML, CSS, and Vanilla JavaScript.
@@ -61,7 +58,7 @@ Enterprise-grade omnichannel performance intelligence dashboard replicating real
 **[→ Live Demo](https://raymondpius.github.io/omnichannel-scorecard)**
 
 ### [🎯 AI Hiring and Training Intelligence Agent](https://github.com/raymondpius/ai-hiring-training-agent)
-Enterprise contact centre hiring and training performance intelligence platform. Features live assessment simulator with AI scoring, training funnel comparison, dynamic scenario-based training modules, real-time agent assist preview, closed performance feedback loop, and full cohort tracking from hire score through to production performance and churn correlation.
+Enterprise contact centre hiring and training performance intelligence platform. Features live assessment simulator with AI scoring, training funnel comparison, dynamic scenario training modules, real-time agent assist preview, closed performance feedback loop, and cohort tracking from hire score through to production performance and churn correlation.
 
 **[→ Live Demo](https://raymondpius.github.io/ai-hiring-training-agent)**
 
@@ -73,6 +70,12 @@ Enterprise contact centre hiring and training performance intelligence platform.
 - 📐 **GSR Framework** — Designed Alexa's Goal Success Rate evaluation system as a feedback loop for model training
 - ⚙️ **Defect Zero** — Six Sigma initiative lifting ASR accuracy from 75% to 89%
 - 🔬 **2D Interpolation Algorithm** — Introduced via competitive benchmarking; 70% ML labelling cost reduction across SageMaker CV pipelines
+
+---
+
+## 💡 What I'm Known For
+
+- 🧠 Turning ambiguous AI problems into shipped products with measurable outcome
 
 ---
 
