@@ -5,7 +5,7 @@ AI-powered PM tools using Claude API — live portfolio at raymondpius.github.io
 
 # Hi, I'm Raymond Pius 👋
 
-### Senior Product Manager · AI Platforms & Data Products · GenAI Products · Lifecycle Intelligence
+### Senior Product Manager | AI Transformation | Enterprise AI | Growth & Retention | Customer Experience
 
 > Most PMs talk about AI. I build with it.
 
